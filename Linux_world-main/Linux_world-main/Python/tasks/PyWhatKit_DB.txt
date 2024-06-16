@@ -1,0 +1,23 @@
+Date: 17/5/2024
+Time: 10:10
+Phone Number: +917489356891
+Message: Hi this is Bhupesh
+--------------------
+
+
+
+
+yum -> path -> cd path -> files -> rhel.iso -> packages -> terminal from file -> pwd -> copy path -> gedit yum.repo -> path paste -> same baseOs 
+
+
+[dvd1] 
+basefile=file://path/AppStream
+gpgcheck=0
+
+[dvd1]
+basefile=file://path/baseOS
+gpgcheck=oDate: 24/5/2024
+Time: 23:10
+Phone Number: +917898808601
+Message: BHen Ke Lode Bsddk
+--------------------
